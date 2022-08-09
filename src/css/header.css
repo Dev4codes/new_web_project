@@ -1,0 +1,28 @@
+.header{
+  display: flex;
+  background-color: rgb(212, 177, 177);
+  max-height:30px ;
+  border-radius: 4px;
+width: auto;
+
+}
+.inputbox{
+  float: right;
+  background-color: rgb(200, 200, 214);
+  height: 80%;
+  width: 200px;
+margin-left: 30%;
+
+}
+.signup{
+  height: 20px;
+    align-self: center;
+    font-size:x-small;
+}
+.login{
+  height: 20px;
+    align-self: center;
+    width: auto;
+    font-size:x-small;
+}
+

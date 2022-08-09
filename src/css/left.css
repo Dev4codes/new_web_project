@@ -1,0 +1,26 @@
+.left-div{
+  background-color: rgb(60, 128, 128);
+  height:auto;
+  width: 30%;
+  border: 2px dotted red;
+}
+.dropdown{
+  background-color: aqua;
+}
+.li:hover{
+background-color: red;
+}
+.content{
+  display: none;
+  background-color: blue;
+  color: aliceblue;
+
+
+}
+.dropdown:hover .content{
+  display: block;
+}
+.drpbtn:hover{
+  background-color: red;
+  cursor: pointer;
+}
